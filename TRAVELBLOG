@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <title>travel blog</title>
+    <link rel="stylesheet" type="text/css" href="yashwanth.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    </head>
+     <body>
+        <header>
+            <div class="nav">
+                <h2 class="logo"><span>Travel</span> web</h2>
+                <a href="LOKESH" class="btn">about</a>
+         </div>
+         <div class="main">
+            <div class="text">
+            <h1><span>Travel</span>Website</h1>
+            <p>explore the world with us</p>
+            <div class="active">
+            <a href="sai pradeep" class="btnone">show more</a>
+            <a href="https://www.google.com/maps/place/Switzerland/@46.7865903,5.5841051,7z/data=!3m1!4b1!4m6!3m5!1s0x478c64ef6f596d61:0x5c56b5110fcb7b15!8m2!3d46.818188!4d8.227512!16zL20vMDZtenA?entry=ttu" class="btntwo">location</a>
+            </div>
+            </div>
+
+         </div>
+        </header>
+        
+     </body>   
+</html>
